@@ -1,6 +1,6 @@
 # Intro to Python Notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Momentum-Team-9/python-notebooks/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Momentum-Team-10/python-notebooks/main)
 
 These notebooks introduce you topic by topic to the Python language. You can run the code contained in each notebook, and you can edit it to see how it works.
 
